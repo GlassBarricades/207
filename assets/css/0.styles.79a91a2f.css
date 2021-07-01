@@ -1208,7 +1208,8 @@ tr:nth-child(2n) {
 td,
 th {
     border: 1px solid #dfe2e5;
-    padding: .6em 1em
+    padding: .6em 1em;
+    min-width: 2.6em
 }
 th {
     position: sticky;
